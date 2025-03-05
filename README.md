@@ -1,6 +1,6 @@
 #  AI-Powered Supply Chain Analytics | Winnie Auma Agongo  
 
-![Supply Chain Dashboard]([https://drive.google.com/file/d/1AZMS4Iv77Rm_iCcRt11liWDcMPLH3New/view?usp=drive_link))  
+![Supply Chain Dashboard](https://github.com/winnier-ops/winnier-ops.github.io/blob/main/WINNIE.png)
 
 ## 👋 About Me  
 I am a **Freelance AI Supply Chain Analyst** passionate about optimizing operations through AI-driven solutions. My expertise lies in transforming raw data into actionable insights using tools like **SQL, Power BI, Google Sheets, and AI-powered analytics platforms**.  
